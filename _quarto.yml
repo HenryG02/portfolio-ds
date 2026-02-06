@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Portfolio - Henry"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projetos
+      - href: resume.qmd
+        text: Currículo
+    right:
+      - icon: github
+        href: https://github.com/seu-usuario
+      - icon: linkedin
+        href: https://linkedin.com/in/henry-goya
+
+format:
+  html:
+    theme:
+      - cosmo
+    toc: true
+
+
+

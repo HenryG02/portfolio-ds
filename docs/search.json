@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sobre Mim",
+    "section": "",
+    "text": "Olá! Sou cientista de dados com ampla experiência profissional na área de dados em empresas de diversos portes e setores. Navego entre o mundo dos negócios e dos dados ao criar e implementar modelos, aplicações, agentes e ao comunicar e traduzir insights para diferentes públicos, gerando economias que chegaram a milhões de reais em meus projetos"
+  },
+  {
+    "objectID": "index.html#habilidades-técnicas",
+    "href": "index.html#habilidades-técnicas",
+    "title": "Sobre Mim",
+    "section": "Habilidades técnicas",
+    "text": "Habilidades técnicas\n\nBanco de Dados Relacional (MySQL e PostgreSQL);\nLinguagens de consulta/programação: SQL avançado, Python avançado (domínio das principais bibliotecas de análise e ciência de dados, aprendizado de máquina e inteligência artificial generativa) e R intermediário;\nMachine Learning: modelos de regressão, classificação e clusterização, incluindo aprendizado supervisionado e não supervisionado, além de modelos de deep learning e de ensemble;\nGen AI: interface com LLMs, prompt engineering, criação e orquestração de agentes e tasks\nVersionamento de código: Git e GitHub;\nAmbientes em nuvem: AWS (EC2, S3, IAM, Bedrock, Textract e ECS);\nInfraestrutura e deploy: Terraform e Docker básicos\nFerramentas de BI/Visualização: Power BI (Power Query, M e DAX) e Looker Studio avançados;\nPlanilhas: Excel/Google Sheets avançado"
+  },
+  {
+    "objectID": "index.html#experiência-profissional",
+    "href": "index.html#experiência-profissional",
+    "title": "Sobre Mim",
+    "section": "Experiência Profissional",
+    "text": "Experiência Profissional\nCientista de Dados - A3Data: 06/2025 - atualmente: - Participação como consultor de Ciência de Dados em projetos com clientes de diferentes setores, envolvendo problemas variados de Data Science (classificação, previsão, recomendação), incluindo IA Generativa\n\nDesenvolvimento de cadências semanais e aprofundamento do relacionamento com o cliente, utilizando metodologia ágil para gerenciamento do projeto\nAnálise exploratória dos dados, envolvendo desde importação, limpeza e validação dos dados até análise univariada e multivariada a partir de medidas estatísticas e visualizações de dados\nRealização de engenharia de features de dados qualitativos e quantitativos, incluindo dados temporais cíclicos e criação de features explicativas\nUtilização de modelos avançados de aprendizado de máquina, com foco em métodos de ensemble, como GBMs e Random Forest\nCriação de soluções de Gen AI, abrangendo desde OCR para extração de informações de documentos digitalizados até a criacão de um sistema multi-agente para geração de propostas comerciais\nAvaliação do desempenho de modelos de machine learning e de aplicações de IA generativa, usando métricas apropriadas para o tipo de problema enfrentado\nAnálise de Retorno sobre o Investimento da solução, chegando a economia de milhões de reais anuais\nVersionamento de código e colaboração no projeto via Git e GitHub\nCriação de interface web dinâmica e interativa com Streamlit e NiceGUI\nDeployment da solução com uso de AWS EC2/ECS e Docker\n\nCientista de Dados - Intellux: 03/2025 - 05/2025: - Modelagem de LLMs (Large Language Models), incluindo Llama, Gemma e modelos da OpenAI, para otimização de performance em domínios técnicos específicos, garantindo soluções de IA alinhadas às necessidades do negócio;\n\nAvaliação contínua da performance de LLMs por meio de métricas e indicadores estratégicos, com foco em qualidade e escalabilidade;\nAnálise comparativa entre modelos open-source e closed-source para seleção do modelo fundacional mais adequado, considerando aspectos técnicos e financeiros;\nCriação, manutenção e utilização de scripts, conectando-se a APIs de LLMs usando um servidor remoto para calcular e acompanhar métricas como custo e tempo de resposta;\nManipulação de dados tabulares, usando bibliotecas como pandas, incluindo a exportação de dados para planilhas Excel para maior facilidade de uso das áreas de negócio\n\nAnalista de Dados - Conta Simples: 01/2024 - 09/2024:\n- Gestão completa de bases de dados, incluindo criação, atualização, limpeza e manutenção, garantindo integridade e qualidade dos dados para análises e tomadas de decisão;\n- Desenvolvimento e gerenciamento de relatórios, dashboards e visualizações de dados no Looker Studio, proporcionando insights claros e acionáveis para stakeholders;\n- Realização de análises avançadas (diagnósticas, descritivas e preditivas) com aplicação de técnicas estatísticas, como correlação, regressão, modelagem estatística e simulação de cenários, para suporte à estratégia de negócios;\n- Automação de processos e fluxos de dados por meio de pipelines e integrações utilizando SQL e Google Sheets, aumentando a eficiência operacional e reduzindo o tempo de entrega de insights;\n- Cálculo, monitoramento e análise de KPIs, OKRs e métricas estratégicas, apoiando a tomada de decisões baseadas em dados e o alcance de objetivos organizacionais;\n- Liderança técnica em projetos de tecnologia e dados, incluindo a criação de um chatbot integrado ao Slack via APIs e a migração de sistemas com arquiteturas de dados distintas;\n- Mapeamento de requisitos de negócio e desenvolvimento de soluções de dados e analytics, desde a concepção até a entrega, alinhando tecnologia às necessidades estratégicas da empresa"
+  },
+  {
+    "objectID": "index.html#educação",
+    "href": "index.html#educação",
+    "title": "Sobre Mim",
+    "section": "Educação",
+    "text": "Educação\nICMC-USP - Bacharelado em Estatística e Ciência de Dados: 2025 - atualmente FEA-USP - Bacharelado em Administração: 2020 - 2024"
+  },
+  {
+    "objectID": "index.html#certificações",
+    "href": "index.html#certificações",
+    "title": "Sobre Mim",
+    "section": "Certificações",
+    "text": "Certificações\nAWS Certified AI Practitioner: 2026 - atualmente"
+  }
+]

@@ -2,10 +2,6 @@
 title: "Sobre Mim"
 about:
     template: jolla
-    links:
-        - icon: linkedin
-        - text: LinkedIn
-        - href: https://linkedin.com
 ---
 
 Olá! Sou cientista de dados com ampla experiência profissional na área de dados em empresas de diversos portes e setores. Navego entre o mundo dos negócios e dos dados ao criar e implementar modelos, aplicações, agentes e ao comunicar e traduzir insights para diferentes públicos, gerando economias que chegaram a milhões de reais em meus projetos
@@ -31,7 +27,8 @@ Olá! Sou cientista de dados com ampla experiência profissional na área de dad
 
 ## Experiência Profissional
 
-**Cientista de Dados - A3Data: 06/2025 - atualmente**:
+### Cientista de Dados - A3Data: 06/2025 - atualmente:
+
 - Participação como consultor de Ciência de Dados em projetos com clientes de diferentes setores, envolvendo problemas variados de Data Science (classificação, previsão, recomendação), incluindo IA Generativa
 
 - Desenvolvimento de cadências semanais e aprofundamento do relacionamento com o cliente, utilizando metodologia ágil para gerenciamento do projeto
@@ -54,7 +51,10 @@ Olá! Sou cientista de dados com ampla experiência profissional na área de dad
 
 - Deployment da solução com uso de AWS EC2/ECS e Docker
 
-**Cientista de Dados - Intellux: 03/2025 - 05/2025**:
+<br>
+
+### Cientista de Dados - Intellux: 03/2025 - 05/2025:
+
 - Modelagem de LLMs (Large Language Models), incluindo Llama, Gemma e modelos da OpenAI, para otimização de performance em domínios técnicos específicos, garantindo soluções de IA alinhadas às necessidades do negócio;
 
 - Avaliação contínua da performance de LLMs por meio de métricas e indicadores estratégicos, com foco em qualidade e escalabilidade;
@@ -65,25 +65,26 @@ Olá! Sou cientista de dados com ampla experiência profissional na área de dad
 
 - Manipulação de dados tabulares, usando bibliotecas como pandas, incluindo a exportação de dados para planilhas Excel para maior facilidade de uso das áreas de negócio
 
-**Analista de Dados - Conta Simples: 01/2024 - 09/2024**:
+<br>
 
+### Analista de Dados - Conta Simples: 01/2024 - 09/2024:
 
-    - Gestão completa de bases de dados, incluindo criação, atualização, limpeza e manutenção, garantindo integridade e qualidade dos dados para análises e tomadas de decisão;
+- Gestão completa de bases de dados, incluindo criação, atualização, limpeza e manutenção, garantindo integridade e qualidade dos dados para análises e tomadas de decisão;
 
-    - Desenvolvimento e gerenciamento de relatórios, dashboards e visualizações de dados no Looker Studio, proporcionando insights claros e acionáveis para stakeholders;
+- Desenvolvimento e gerenciamento de relatórios, dashboards e visualizações de dados no Looker Studio, proporcionando insights claros e acionáveis para stakeholders;
 
-    - Realização de análises avançadas (diagnósticas, descritivas e preditivas) com aplicação de técnicas estatísticas, como correlação, regressão, modelagem estatística e simulação de cenários, para suporte à estratégia de negócios;
+- Realização de análises avançadas (diagnósticas, descritivas e preditivas) com aplicação de técnicas estatísticas, como correlação, regressão, modelagem estatística e simulação de cenários, para suporte à estratégia de negócios;
 
-    - Automação de processos e fluxos de dados por meio de pipelines e integrações utilizando SQL e Google Sheets, aumentando a eficiência operacional e reduzindo o tempo de entrega de insights;
+- Automação de processos e fluxos de dados por meio de pipelines e integrações utilizando SQL e Google Sheets, aumentando a eficiência operacional e reduzindo o tempo de entrega de insights;
 
-    - Cálculo, monitoramento e análise de KPIs, OKRs e métricas estratégicas, apoiando a tomada de decisões baseadas em dados e o alcance de objetivos organizacionais;
+- Cálculo, monitoramento e análise de KPIs, OKRs e métricas estratégicas, apoiando a tomada de decisões baseadas em dados e o alcance de objetivos organizacionais;
 
-    - Liderança técnica em projetos de tecnologia e dados, incluindo a criação de um chatbot integrado ao Slack via APIs e a migração de sistemas com arquiteturas de dados distintas;
+- Liderança técnica em projetos de tecnologia e dados, incluindo a criação de um chatbot integrado ao Slack via APIs e a migração de sistemas com arquiteturas de dados distintas;
 
-    - Mapeamento de requisitos de negócio e desenvolvimento de soluções de dados e analytics, desde a concepção até a entrega, alinhando tecnologia às necessidades estratégicas da empresa
+- Mapeamento de requisitos de negócio e desenvolvimento de soluções de dados e analytics, desde a concepção até a entrega, alinhando tecnologia às necessidades estratégicas da empresa
 
 ## Educação
-**ICMC-USP - Bacharelado em Estatística e Ciência de Dados**: 2025 - atualmente
+**ICMC-USP - Bacharelado em Estatística e Ciência de Dados**: 2025 - atualmente  
 **FEA-USP - Bacharelado em Administração**: 2020 - 2024
 
 ## Certificações
